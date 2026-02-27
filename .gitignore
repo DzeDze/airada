@@ -27,3 +27,9 @@ deploying-ai-env
 *.jsonl
 *.htm
 *.txt
+
+# data
+data/processed/*
+data/raw/*
+data/vector/*
+!data/.keep
