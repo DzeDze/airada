@@ -3,6 +3,8 @@
 In today’s AI landscape, new frameworks, services, breakthroughs, and research are emerging at an overwhelming pace. Keeping up with these rapid developments is essential for anyone working in this field.
 AIRADA is a Proof of Concept (POC) AI system designed to bridge the gap by quickly capturing and summarizing the latest AI-related information available on the market. It also provides precise **source links** to the content used to generate its summaries.
 
+![](images/AIRADA.png)
+
 ## Services
 
 AIRADA includes three main services:
@@ -197,7 +199,6 @@ Starting Gradio interface...
 ```
 Open your browser and navigate to http://127.0.0.1:7860 to interact with the chatbot.
 
-![](images/AIRADA.png)
 
 
 
